@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruu5LP)](https://github.com/anuraghazra/github-readme-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ruu5LP&show_icons=true&theme=radical)
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruu5LP&layout=compact&show_icons=true&theme=radical" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Ruu5LP&theme=radical&show_icons=ture" />
+</p>
 
 <!--
 **Ruu5LP/Ruu5LP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

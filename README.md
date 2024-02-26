@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ruu5LP)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ruu5LP&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruu5LP)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Ruu5LP/Ruu5LP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

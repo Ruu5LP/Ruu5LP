@@ -3,6 +3,7 @@
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruu5LP&layout=compact&show_icons=true&theme=radical" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Ruu5LP&theme=radical&show_icons=ture" />
+  <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/66907b687fc121949a15a0a5?variant=dark" alt="roadmap.sh"/></a>
 </p>
 
 <!--

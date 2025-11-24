@@ -1,23 +1,29 @@
-### Hi there 👋
+<div align="center">
+  <img src="./images/ai生成雨.png" alt="Header" style="width: 100%;"/>
+</div>
 
-<p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruu5LP&layout=compact&show_icons=true&theme=radical" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Ruu5LP&theme=radical&show_icons=ture" />
-  
-  <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/66907b687fc121949a15a0a5?variant=dark" alt="roadmap.sh"/></a>
+## 👋 Hi there
+
+- I'm a Japanese Software Engineer
+- Still learning and improving my skills every day
+- I love playing card games
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ruu5LP&show_icons=true&theme=default&include_all_commits=true&count_private=true&title_color=00bfff&icon_color=00bfff&text_color=333&bg_color=ffffff"/> <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruu5LP&layout=compact&theme=default&title_color=00bfff&text_color=333&bg_color=ffffff"/>
 </p>
 
-<!--
-**Ruu5LP/Ruu5LP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🛠️ Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="50" height="50" style="border-radius: 10px; background-color: #f0f0f0;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50" style="border-radius: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50" style="border-radius: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel" width="50" height="50" style="border-radius: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="50" height="50" style="border-radius: 10px;"/>
+</p>

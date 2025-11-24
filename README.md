@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./images/ai生成雨.png" alt="Header" style="width: 100%;"/>
+  <img src="./images/ai生成雨.png" alt="Header" style="width: 100%; border-radius: 15px;"/>
 </div>
 
 ## 👋 Hi there
@@ -13,7 +13,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ruu5LP&show_icons=true&theme=default&include_all_commits=true&count_private=true&title_color=00bfff&icon_color=00bfff&text_color=333&bg_color=ffffff"/> <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruu5LP&layout=compact&theme=default&title_color=00bfff&text_color=333&bg_color=ffffff"/>
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Ruu5LP&show_icons=true&theme=default&include_all_commits=true&count_private=true&title_color=00bfff&icon_color=00bfff&text_color=333&bg_color=ffffff"/> <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruu5LP&layout=compact&theme=default&title_color=00bfff&text_color=333&bg_color=ffffff"/>
 </p>
 
 ---
